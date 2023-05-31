@@ -5,8 +5,8 @@ import (
 	"errors"
 	"io/ioutil"
 	"net/http"
-	"simple-api/cache"
-	"simple-api/user"
+	"restful-api/cache"
+	"restful-api/user"
 
 	"github.com/asdine/storm/v3"
 	"gopkg.in/mgo.v2/bson"

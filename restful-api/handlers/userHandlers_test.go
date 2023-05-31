@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"reflect"
-	"simple-api/user"
+	"restful-api/user"
 	"testing"
 
 	"gopkg.in/mgo.v2/bson"

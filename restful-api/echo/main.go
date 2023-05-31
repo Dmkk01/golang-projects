@@ -2,8 +2,8 @@ package main
 
 import (
 	"net/http"
-	"simple-api/cache"
-	"simple-api/user"
+	"restful-api/cache"
+	"restful-api/user"
 	"strings"
 
 	"github.com/asdine/storm/v3"

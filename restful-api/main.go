@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"os"
-	"simple-api/handlers"
+	"restful-api/handlers"
 )
 
 func main() {

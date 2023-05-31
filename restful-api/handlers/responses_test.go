@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
-	"simple-api/user"
+	"restful-api/user"
 	"strconv"
 	"testing"
 
